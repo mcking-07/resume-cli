@@ -24,7 +24,7 @@ You can run `resume-cli` using:
 ```
 python main.py
 ```
-The command-line interface will guide you to explore different sections of the portfolio.
+Experience a colorful and interactive command-line interface with built-in autocomplete support. It will also seamlessly guide you through exploring various sections of the portfolio.
 
 To import data into json files from a master resume json, use:
 
