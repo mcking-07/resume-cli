@@ -1,0 +1,23 @@
+{
+	"Skills": {
+		"Programming and Development": {
+			"Languages": ["JavaScript", "Python", "Typescript"],
+			"Frontend Technologies": ["CSS", "HTML", "ReactJS"],
+			"Backend Technologies": ["Django", "ExpressJS", "NodeJS"],
+			"Scripting": ["Bash"],
+			"Testing": ["Jest"]
+		},
+		"Data Management": {
+			"Database": ["MongoDB", "MySQL", "PostgreSQL"]
+		},
+		"Infrastructure and Deployment": {
+			"Configuration Management": ["Ansible", "Jenkins", "Terraform"],
+			"Containerization": ["Docker"],
+			"Cloud Computing": ["AWS (Amazon Web Services", "OCI (Oracle Cloud Infrastructure)"]
+		},
+		"Monitoring and Logging": ["Elasticsearch", "Kibana", "Logstash", "Prometheus"],
+		"Server Management": ["Linux/Unix"],
+		"Web Servers and Proxy": ["Apache", "Nginx"],
+		"Version Control and Code Management": ["Git"]
+	}
+}
