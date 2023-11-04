@@ -1,0 +1,23 @@
+resume-cli
+├── data
+│   ├── about.json
+│   ├── contact.json
+│   ├── education.json
+│   ├── experience.json
+│   ├── projects.json
+│   ├── resume.json
+│   └── skills.json
+├── import.py
+├── main.py
+├── README.md
+├── requirements.txt
+└── src
+    ├── about.py
+    ├── contact.py
+    ├── education.py
+    ├── exit.py
+    ├── experience.py
+    ├── menu.py
+    ├── projects.py
+    ├── skills.py
+    └── utils.py
