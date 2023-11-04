@@ -1,0 +1,32 @@
+{
+	"Experiences": [
+		{
+			"Position": "Software Developer Engineer",
+			"Company": "PluginHive",
+			"Duration": "07/2022 - Ongoing",
+			"Location": "Bangalore",
+			"Description": [
+				"PluginHive specializes in providing the most secure, stable, feature-rich and intuitive WooCommerce, Shopify and Magento Extensions.",
+				"Integrated REST and SOAP APIs for rate calculation, label generation, shipping and package tracking services from global delivery partners such as Aramex, Australia Post, Canada Post, Delhivery, EasyPost, Sendle, and TNT Express into PluginHive's flagship application, Multi-Carrier Shipping and Label.",
+				"Integrated MyPost Business REST APIs into PluginHive's standalone Australia Post Rates and Labels Application, enabling the inclusion of a second carrier within the application which resulted in a significant increase in application installs and label generation within Australia.",
+				"Developed an in-app notification system that delivers targeted messages to customers based on predefined criteria, ensuring timely alerts for frequent issues or anomalies, enhancing customer experience within the application.",
+				"Developed Ansible playbooks to deploy and configure M-Tail and Prometheus, enabling real-time monitoring and proactive issue resolution for app logs.",
+				"Developed Ansible playbooks to implement a centralized log management system using ELK Stack which enabled efficient monitoring, analysis, and visualization of application logs from multiple sources while configuring log ingestion pipelines and setting up proactive alerts for issue resolution.",
+				"Designed and developed a comprehensive error extraction library for XMLs and JSONs, eliminating code redundancy and enhancing error handling processes.",
+				"Implemented internationalization (i18n) for the standalone application FedEx Ship, Rate and Track, supporting English and Chinese (Simplified) languages.",
+				"Developed comprehensive Ansible deployment scripts to automate the seamless deployment of multiple applications across staging and production environments, optimizing efficiency and ensuring consistent deployments."
+			]
+		},
+		{
+			"Position": "Software Developer Intern",
+			"Company": "PluginHive",
+			"Duration": "10/2021 - 02/2022",
+			"Location": "Bangalore",
+			"Description": [
+				"PluginHive specializes in providing the most secure, stable, feature-rich and intuitive WooCommerce, Shopify and Magento Extensions.",
+				"Integrated REST and SOAP APIs for rate calculation, label generation, shipping and package tracking services from global delivery partners such as APC Postal Logistics, Canpar, CouriersPlease, New Zealand Post and Pitney-Bowes into PluginHive's flagship application, Multi-Carrier Shipping and Label.",
+				"Designed and implemented a comprehensive solution using Bash and JavaScript for automated log analysis and backup, developing custom scripts in Bash to extract valuable insights from diverse logs across multiple machines and applications, and ensuring regular and secure backups on the host machine for 14 days followed by seamless transfer to Amazon S3 for long-term storage."
+			]
+		}
+	]
+}
