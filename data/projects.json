@@ -1,0 +1,30 @@
+{
+	"Projects": [
+		{
+			"Name": "Collaborative Sketching Tool",
+			"Description": [
+				"Designed and developed a secure web application utilizing the MERN Stack.",
+				"Enabled real-time collaboration and sharing of sketches among multiple users.",
+				"Implemented an intuitive user interface and secure user authentication."
+			]
+		},
+		{
+			"Name": "News Aggregator",
+			"Description": [
+				"Built a News Aggregator Application using the MERN Stack and Material UI.",
+				"Integrated with Google's News API.",
+				"Displayed scrollable news cards with images, titles, and brief article summaries.",
+				"Organized by categories with a navigation menu.",
+				"Allowed users to access the full source article upon selection."
+			]
+		},
+		{
+			"Name": "Personal DNS Server",
+			"Description": [
+				"Integrated AdGuard DNS into a private DNS infrastructure.",
+				"Enhanced network security and privacy by providing ad-blocking and content filtering capabilities.",
+				"Ensured a secure, ad-free, and protected browsing experience within the private network environment."
+			]
+		}
+	]
+}
