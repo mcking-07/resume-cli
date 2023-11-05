@@ -3,6 +3,8 @@
 A python cli application which provides a simple and interactive way to showcase your resume in a terminal environment.
 This project was inspired by [karanpargal/resume-cli](https://github.com/karanpargal/resume-cli).
 
+![menu-screen](/assets/menu.png)
+
 ## Installation
 
 Clone this repository:
