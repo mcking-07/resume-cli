@@ -6,7 +6,6 @@
 			"Duration": "07/2022 - Ongoing",
 			"Location": "Bangalore",
 			"Description": [
-				"PluginHive specializes in providing the most secure, stable, feature-rich and intuitive WooCommerce, Shopify and Magento Extensions.",
 				"Integrated REST and SOAP APIs for rate calculation, label generation, shipping and package tracking services from global delivery partners such as Aramex, Australia Post, Canada Post, Delhivery, EasyPost, Sendle, and TNT Express into PluginHive's flagship application, Multi-Carrier Shipping and Label.",
 				"Integrated MyPost Business REST APIs into PluginHive's standalone Australia Post Rates and Labels Application, enabling the inclusion of a second carrier within the application which resulted in a significant increase in application installs and label generation within Australia.",
 				"Developed an in-app notification system that delivers targeted messages to customers based on predefined criteria, ensuring timely alerts for frequent issues or anomalies, enhancing customer experience within the application.",
@@ -23,7 +22,6 @@
 			"Duration": "10/2021 - 02/2022",
 			"Location": "Bangalore",
 			"Description": [
-				"PluginHive specializes in providing the most secure, stable, feature-rich and intuitive WooCommerce, Shopify and Magento Extensions.",
 				"Integrated REST and SOAP APIs for rate calculation, label generation, shipping and package tracking services from global delivery partners such as APC Postal Logistics, Canpar, CouriersPlease, New Zealand Post and Pitney-Bowes into PluginHive's flagship application, Multi-Carrier Shipping and Label.",
 				"Designed and implemented a comprehensive solution using Bash and JavaScript for automated log analysis and backup, developing custom scripts in Bash to extract valuable insights from diverse logs across multiple machines and applications, and ensuring regular and secure backups on the host machine for 14 days followed by seamless transfer to Amazon S3 for long-term storage."
 			]
